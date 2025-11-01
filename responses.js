@@ -12,9 +12,9 @@ Go beyond what you can find through Google. Places *without* a "Venue hire" page
 Tell them what you want to do (date, venue, events, etc), and pretend you've got a decent idea of the details. 
 Oh so, you've only got complaints? Maybe don't email just yet.
 
-**3.  Find a WCA Delegate**
+**3. Find a WCA Delegate**
 Without a Delegate, you can't have a competition. Delegates are volunteers, not your personal competition slave.
-You could try SEEK, but https://www.worldcubeassociation.org/delegates will probably be more effective. 
+You could try SEEK, but <https://www.worldcubeassociation.org/delegates> will probably be more effective. 
 
 **4. Work with your delegate**
 They will help you build a schedule that makes sense and will work. 

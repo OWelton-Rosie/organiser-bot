@@ -11,9 +11,9 @@ const client = new Client({
 // --- Slash commands ---
 const commands = [
     new SlashCommandBuilder().setName('howtoorganise').setDescription('Get an essay on how to organise a competition'),
-    new SlashCommandBuilder().setName('fixthesuckycomps').setDescription('Get an essay on how to organise a competition'),
-    new SlashCommandBuilder().setName('improvethecomps').setDescription('Get an essay on how to organise a competition'),
-    new SlashCommandBuilder().setName('makethecompsbetter').setDescription('Get an essay on how to organise a competition'),
+    new SlashCommandBuilder().setName('fixthesuckycomps').setDescription('Get instructions on how to improve the obviously terrible competitions'),
+    new SlashCommandBuilder().setName('improvethecomps').setDescription('Get instructions on how to improve the competitions'),
+    new SlashCommandBuilder().setName('makethecompsbetter').setDescription('Get an essay on how to make the competitions better'),
 ].map(command => command.toJSON());
 
 // --- Register commands globally ---
