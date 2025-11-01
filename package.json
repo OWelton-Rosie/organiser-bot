@@ -1,0 +1,13 @@
+{
+  "name": "organiser-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^15.0.0",
+    "dotenv": "^17.0.0"
+  }
+}
