@@ -1,6 +1,6 @@
 import { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder } from 'discord.js';
 import dotenv from 'dotenv';
-import { responses } from './responses.js'; // import the essay and aliases for '/howtoorganise'
+import { responses } from './essay.js'; // import the essay and aliases for '/howtoorganise'
 dotenv.config();
 
 // --- Discord client setup ---
